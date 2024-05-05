@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "checkpw",
+        "devcontainers",
+        "fastapi",
+        "gensalt",
+        "guiyomh",
+        "hashpw",
+        "jsonable",
+        "ondelete",
+        "onupdate",
+        "pydantic",
+        "sqlalchemy"
+    ],
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
